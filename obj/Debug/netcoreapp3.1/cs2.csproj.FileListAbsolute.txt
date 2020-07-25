@@ -1,0 +1,13 @@
+/media/me/BC689A80689A395A/cs2/bin/Debug/netcoreapp3.1/cs2
+/media/me/BC689A80689A395A/cs2/bin/Debug/netcoreapp3.1/cs2.deps.json
+/media/me/BC689A80689A395A/cs2/bin/Debug/netcoreapp3.1/cs2.runtimeconfig.json
+/media/me/BC689A80689A395A/cs2/bin/Debug/netcoreapp3.1/cs2.runtimeconfig.dev.json
+/media/me/BC689A80689A395A/cs2/bin/Debug/netcoreapp3.1/cs2.dll
+/media/me/BC689A80689A395A/cs2/bin/Debug/netcoreapp3.1/cs2.pdb
+/media/me/BC689A80689A395A/cs2/obj/Debug/netcoreapp3.1/cs2.csprojAssemblyReference.cache
+/media/me/BC689A80689A395A/cs2/obj/Debug/netcoreapp3.1/cs2.AssemblyInfoInputs.cache
+/media/me/BC689A80689A395A/cs2/obj/Debug/netcoreapp3.1/cs2.AssemblyInfo.cs
+/media/me/BC689A80689A395A/cs2/obj/Debug/netcoreapp3.1/cs2.csproj.CoreCompileInputs.cache
+/media/me/BC689A80689A395A/cs2/obj/Debug/netcoreapp3.1/cs2.dll
+/media/me/BC689A80689A395A/cs2/obj/Debug/netcoreapp3.1/cs2.pdb
+/media/me/BC689A80689A395A/cs2/obj/Debug/netcoreapp3.1/cs2.genruntimeconfig.cache
